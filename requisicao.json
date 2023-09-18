@@ -1,0 +1,14 @@
+[
+    {
+        "disciplina": "Matemática",
+        "categoria": "front-end"
+    },
+    {
+        "disciplina": "Português",
+        "categoria": "front-end"
+    },
+    {
+        "disciplina": "Ciências",
+        "categoria": "front-end"
+    }
+]
